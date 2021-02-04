@@ -44,8 +44,8 @@
 ### 刷机教程;
 ##### 我一般的方法:
 ```
-直接用***热风枪***干下Flash芯片,上编程器刷BootLoader,在干上去;  
-此固件以完全移除了***无线部分***即使丢了EEPROM也无妨;
+直接用热风枪干下Flash芯片,上编程器刷BootLoader,在干上去;  
+此固件以完全移除了无线部分即使丢了EEPROM也无妨;
 ```
 
 - [→ 👉推荐使用此方法👈](https://www.upantool.com/sense/luyouqi/14063.html)
