@@ -1,5 +1,4 @@
 ### 基于NewifiD2的Openwrt Firmware;
-#### 生命不息,折腾不止;
 
 这是一个结合多个大神所开发的一系列Openwrt神级插件  
 ***基于Mips架构***的构建;    
@@ -69,6 +68,7 @@ sudo apt-get -y install build-essential \
 
 
 
+## 生命不息,折腾不止;
 
 
 ### 友链
