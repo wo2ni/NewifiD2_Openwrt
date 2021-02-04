@@ -84,9 +84,9 @@ sudo apt-get -y install build-essential \
 - [💕→ 新版argon主题源码](https://github.com/jerrykuku/luci-theme-argon)
 
 ## 生命不息,折腾不止;
+- [→ 本人永久的Github地址](https://github.com/wo2ni)
 
 ### 友链
 - [→ ipv6测试](https://www.test-ipv6.com/)
 - [→ 佐须之男Openwrt教程](http://forgotfun.org/)
 - [→ 恩山无线论坛](https://www.right.com.cn/)
-- [→ 本人永久的Github地址](https://github.com/wo2ni)
