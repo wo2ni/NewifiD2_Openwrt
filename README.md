@@ -48,7 +48,7 @@
 此固件以完全移除了无线部分即使丢了EEPROM也无妨;
 ```
 
-- [→ 👉推荐使用此方法👈](https://www.upantool.com/sense/luyouqi/14063.html)
+- [→ 👉推荐参考此方法👈](https://aisoa.cn/post-2247.html)
 
 ### 构建平台
 ```
