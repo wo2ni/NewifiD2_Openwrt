@@ -14,7 +14,7 @@
 |--------|-------------|------------|
 |💖原生IPV6支持💖|💖多拨,负载均衡💖 |💖WOL远程唤醒💖|
 |💖TurboACC网络加速💖|💖ZeroTier(SDWAN)💖 |💖UPNP💖 |
-|💖全自动智能科学上网(支持SS,SSR,V2RAY,Trojan,Trojan-Go,xray)💖|
+- ##### 💖全自动智能科学上网(支持SS,SSR,V2RAY,Trojan,Trojan-Go,xray)💖
 
 ### 来几张靓照;
 ![2021-02-03 23-02-58 的屏幕截图.png](https://i.loli.net/2021/02/04/aSor2pvx37ZP5dW.png) logo
