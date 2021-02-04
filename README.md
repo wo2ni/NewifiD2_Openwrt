@@ -38,10 +38,8 @@
 只有这样此固件的惊人本领,将彻底释放;
 ```
 
-### 固件下载;
-
-- [→ 👉下载BootLoader👈](https://github.com/wo2ni/NewifiD2_Openwrt/releases/download/v0.1/breed-mt7621-newifi-d2.bin)
-- [→ 👉点击下载此固件👈](https://github.com/wo2ni/NewifiD2_Openwrt/releases/download/v0.1/openwrt-ramips-mt7621-d-team_newifi-d2-squashfs-sysupgrade.bin)
+### 下载;
+- [→ 👉下载BootLoader及固件👈](https://github.com/wo2ni/NewifiD2_Openwrt/releases/tag/v0.1)
 
 ### 刷机教程;
 ##### 我一般的方法:
