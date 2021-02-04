@@ -1,5 +1,10 @@
 ### 基于NewifiD2的Openwrt Firmware;
 
+#### !!警告!!
+- 此软件仅为学习用途,低调使用,由此引发的任何法律纠纷均于本人无关;
+- 请勿用于任何商业用途,私自盈利手段,因为这包含了所有寒假的所有活动;
+
+
 这是一个结合多个大神所开发的一系列Openwrt神级插件  
 ***基于Mips架构***的构建;    
 包含的所有功能见下图***默认移除了无线芯片部分的所有驱动,以及USB3.0;***  
@@ -10,7 +15,17 @@
 |💖IPV6支持💖|💕多拨,负载均衡💖 |💖WOL远程唤醒💖|
 |💖全自动科学上网💖|💖ZeroTier(SDWAN)💖 |💖UPNP💖 |
 
-### 来几张靓图;
+### 来几张靓照;
+![2021-02-03 23-02-58 的屏幕截图.png](https://i.loli.net/2021/02/04/aSor2pvx37ZP5dW.png) logo
+
+![2021-02-03 23-40-31 的屏幕截图.png](https://i.loli.net/2021/02/04/YxPpTtO6BSeKLJQ.png)
+
+![2021-02-03 23-22-22 的屏幕截图.png](https://i.loli.net/2021/02/04/Hh2keQCKZgw13pP.png)
+
+![2021-01-29 09-51-45 的屏幕截图.png](https://i.loli.net/2021/02/04/YzOienUhMf1gsXC.png)
+
+![594086172.jpg](https://i.loli.net/2021/02/04/W5U27mGrpDNXFcB.jpg)
+
 
 ### 需要注意的地方......
 ```
@@ -47,6 +62,7 @@ sudo apt-get -y install build-essential \
 ### 自己用到的一些插件Github地址;
 - [💕→ passwall ssr-plus源码](https://github.com/kenzok8/openwrt-packages)
 - [💕→ Hello World源码](https://github.com/jerrykuku/luci-app-vssr)
+- [💕→ 应用过滤源码](https://github.com/destan19/OpenAppFilter)
 - [💕→ server酱微信推送源码](https://github.com/tty228/luci-app-serverchan)
 - [💕→ 京东签到源码](https://github.com/jerrykuku/luci-app-jd-dailybonus)
 - [💕→ 新版argon主题源码](https://github.com/jerrykuku/luci-theme-argon)
