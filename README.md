@@ -4,13 +4,11 @@
 
 #### !!警告!!
 - 此软件仅为学习用途,***低调***使用,本人不提供出售任何***Fan,Qiang***服务;
-- 请勿用于任何盈利手段,因为这包含了所有寒假的所有活动;
+- 请勿用于任何盈利手段,这包含了自己所有寒假的所有活动,;
 
 
-这是一个结合多个大神所开发的一系列Openwrt神级插件  
-***基于Mips架构***的构建;   
-默认已移除***无线芯片***以及***USB3.0***驱动;
-
+这是一个结合多个大神所开发的一系列Openwrt神级插件的部分整合    
+***基于Mips架构***的构建;默认移除***无线芯片***以及***USB3.0***驱动;  
 
 # 💖包含功能💖
 |        |             |            |
@@ -34,17 +32,30 @@
 
 ### 需要注意的地方......
 ```
-(务必删除光猫里的RMS服务,以及自带的intelnet业务,以及不要保存任何日志;)
-(自己建立ipv4/ipv6业务,牢记LOID和Vlanid;)
-(只有这样才能彻底摆脱来自ISP的远程管控;)
+此固件必须结合光猫PPPOE方式使用,务必确保光猫工作在!!桥接模式下!!
+务必删除光猫里的RMS服务,以及自带的Intelnet业务,以及不要保存任何日志;
+自己创建ipv4/ipv6业务,!务必记下光纤LOID!和之前的VlanID;
+只有这样此固件的惊人本领,将彻底释放;
 ```
+
+### 固件下载;
+
+- [→ 👉下载BootLoader👈](https://github.com/wo2ni/NewifiD2_Openwrt/releases/download/v0.1/breed-mt7621-newifi-d2.bin)
+- [→ 👉点击下载此固件👈](https://github.com/wo2ni/NewifiD2_Openwrt/releases/download/v0.1/openwrt-ramips-mt7621-d-team_newifi-d2-squashfs-sysupgrade.bin)
+
+### 刷机教程;
+##### 我一般的方法:
+- 直接用***热风枪***干下Flash芯片,上编程器刷BootLoader,在干上去;  
+- 此固件以完全移除了***无线部分***即使丢了EEPROM也无妨;
+
+- [→ 👉推荐使用此方法👈](https://www.upantool.com/sense/luyouqi/14063.html)
 
 ### 构建平台
 ```
 Debian9.9
 ```
 
-#### 编译环境构建;
+#### 编译环境;
 ```
 sudo apt-get -y update
 sudo apt-get -y install build-essential \
@@ -72,15 +83,7 @@ sudo apt-get -y install build-essential \
 - [💕→ 京东签到源码](https://github.com/jerrykuku/luci-app-jd-dailybonus)
 - [💕→ 新版argon主题源码](https://github.com/jerrykuku/luci-theme-argon)
 
-
-
-
-
-
-
-
 ## 生命不息,折腾不止;
-
 
 ### 友链
 - [→ ipv6测试](https://www.test-ipv6.com/)
